@@ -1,0 +1,15 @@
+h1 {
+	padding: 25px;
+	background-color: rgb(255, 128, 0);
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	border: 3px solid blue;
+}
+
+p{
+	padding: 10px;
+	background-color: grey;
+	font-size: 14px;
+	color: white;
+}
